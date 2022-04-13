@@ -1,5 +1,5 @@
-#include "tad_pilha_encadeada.hpp"
-#include "tad_pilha_encadeada.cpp"
+#include "linked_stack.hpp"
+#include "linked_stack.cpp"
 #include <iostream>
 using namespace std;
 
